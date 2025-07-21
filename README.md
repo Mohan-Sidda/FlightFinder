@@ -116,6 +116,7 @@ Feel free to contribute by submitting pull requests or suggesting features via i
 ## 📄 License
 
 This project is licensed under the MIT License. You can freely use and modify this project for personal or academic use.
+Please refer document to detail explanation
 
 
 ---
