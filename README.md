@@ -74,18 +74,18 @@ This system helps users:
 
 ## 📷 Screenshots
 
-> 📌 Include the screenshots in the screenshots/ folder in your repo.
+
+- Home Page
+
+ <img width="783" height="372" alt="Screenshot 2025-07-21 085303" src="https://github.com/user-attachments/assets/05722614-54b7-467c-ade7-046ad0ae7983" />
 
 
+- Bookings
 
-🔍 Search Page
-
-
-
-📊 Results Page
+  <img width="787" height="378" alt="Screenshot 2025-07-21 085350" src="https://github.com/user-attachments/assets/d9accd93-aa91-4245-8500-3ea7f51d5c70" />
 
 
-
+<img width="816" height="779" alt="Screenshot 2025-07-21 085606" src="https://github.com/user-attachments/assets/a589aa30-7fa6-4dff-be57-c5ebf73e1ba4" />
 
 
 ---
