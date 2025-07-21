@@ -37,8 +37,87 @@ This system helps users:
 - 📱 **Responsive Design:** Mobile-friendly interface using Bootstrap.
 - ⚙️ **Backend Integration:** Flask app handles search logic and returns relevant results.
 
+
 ---
 
-## 📁 Project Structure
+## 🚀 How to Run the Project
+
+### ✅ Prerequisites
+
+- Python 3.8 or higher
+- pip (Python package manager)
+
+### 🔧 Installation Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mohan-Sidda/FlightFinder.git
+   cd FlightFinder
+
+2. Install the required dependencies:
+   
+   ```bash
+   pip install -r requirements.txt
+   
+
+3. Run the Flask application:
+   ```bash
+   python app.py
+
+
+4. Open your browser and go to:
+   ```bash
+   http://127.0.0.1:5000/
+
+
+---
+
+## 📷 Screenshots
+
+> 📌 Include the screenshots in the screenshots/ folder in your repo.
+
+
+
+🔍 Search Page
+
+
+
+📊 Results Page
+
+
+
+
+
+---
+
+## 🔮 Future Scope
+
+- 🌐 Integration with real-time airline APIs (like Skyscanner or Amadeus)
+
+- 👤 User authentication and booking history
+
+- 📈 Price trend analysis over time
+
+- 🗣️ Multilingual interface
+
+- 📩 Email alerts and notifications for deals
+
+
+
+---
+
+## 🙌 Contributing
+
+
+Feel free to contribute by submitting pull requests or suggesting features via issues!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. You can freely use and modify this project for personal or academic use.
+
+
+---
 
 
